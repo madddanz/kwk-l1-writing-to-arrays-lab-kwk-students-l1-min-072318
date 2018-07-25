@@ -13,7 +13,7 @@ def change_rainbow_colors
     puts rainbow_colors
 end
 
-# return change_rainbow_colors
+return change_rainbow_colors
 
 
 
