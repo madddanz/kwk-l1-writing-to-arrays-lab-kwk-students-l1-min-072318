@@ -25,4 +25,4 @@ def add_colors
   puts change_rainbow_colors
 end
 
-puts add_colors
+return add_colors
