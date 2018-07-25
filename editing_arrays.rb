@@ -28,3 +28,4 @@ def add_colors
 end
 
 return add_colors
+add_colors
